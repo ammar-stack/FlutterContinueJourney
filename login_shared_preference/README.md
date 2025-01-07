@@ -1,16 +1,4 @@
 # login_shared_preference
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1736235778](https://github.com/user-attachments/assets/1fb1e06f-4552-4dff-9314-7e6ce01a0784)
+![Screenshot_1736235761](https://github.com/user-attachments/assets/f7ab3389-4238-4f3a-8446-b1c77d8fe31a)
